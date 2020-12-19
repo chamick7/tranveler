@@ -1,0 +1,23 @@
+
+
+
+
+.home_body{
+    display: flex;
+    flex-direction: column;
+}
+
+.search_container{
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    height: calc(100vh);
+    background-image: url("../Img/beach.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.testheight{
+    height: 2000px;
+}

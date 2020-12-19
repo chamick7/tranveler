@@ -6,6 +6,7 @@
 
 
 nav{
+    z-index: 10;
     width: 100%;
     height: 60px;
     display: flex;
@@ -14,6 +15,7 @@ nav{
     align-items: center;
     padding: 0px 10%;
     position: fixed;
+    transition: .5s;
 }
 
 
